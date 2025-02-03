@@ -48,13 +48,7 @@ body {
     text-decoration: underline;
 }
 
-/* Portfolio Section 
-#portfolio {
-    background-image: url('bg2.jpg');
-    height: 700px;
-    text-align: center;
-    align-content: center;
-}*/
+
 #portfolio {
     background-image: url('bg2.jpg');
     background-size: cover; /* Ensures the image covers the entire section */
@@ -318,7 +312,7 @@ body {
     }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 300px) {
     .text {
         width: 100%;
         padding: 20px;
